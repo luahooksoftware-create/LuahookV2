@@ -1,1 +1,1 @@
-print('[autoload] hello from remote')
+warn('[autoload] hello from remote')
